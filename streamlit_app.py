@@ -9,7 +9,7 @@ import os
 
 # title and favicon ------------------------------------------------------------
 
-st.set_page_config(page_title="Speech to Text Transcription App", page_icon="🦜")
+st.set_page_config(page_title="Speech to Text Transcription App", page_icon="👄")
 
 # _max_width_()
 
