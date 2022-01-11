@@ -5,7 +5,7 @@ import requests
 import json
 import os
 
-from css_tricks import _max_width_
+# from css_tricks import _max_width_
 
 # title and favicon ------------------------------------------------------------
 
